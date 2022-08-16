@@ -1,0 +1,17 @@
+.center {
+  text-align: center;
+
+  transition: 1s;
+  font-size: 50px
+}
+
+hr{
+  color: black;
+  width: 100%;
+  size: 10px;
+
+}
+
+.center:hover {
+  transform: rotate(360deg);
+}
